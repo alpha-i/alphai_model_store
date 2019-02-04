@@ -1,0 +1,13 @@
+--extra-index-url https://pypi.fury.io/yuTgVkyQQ8f7868U91LP/alpha-i/
+
+h5py==2.7.1
+tensorflow==1.4.0
+scipy
+sklearn
+contexttimer
+pandas==0.22
+tables==3.4.2
+matplotlib
+pillow
+keras==2.2.2
+alphai_es_datasource==0.0.4

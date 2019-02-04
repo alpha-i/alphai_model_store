@@ -1,0 +1,6 @@
+-r requirements.txt
+
+pytest
+ipdb
+elasticsearch
+elasticsearch-dsl
